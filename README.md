@@ -8,7 +8,7 @@ The last published version:
 
 ### About
 
-<strong>Focus Mode is a Chrome extension designed to help improve focus and productivity. It allows users to set a maximum timer duration of 47 hours, 59 minutes, and 59 seconds, enabling them to start, pause, and reset the timer as needed. Additionally, users can block distracting websites such as YouTube. When the timer is active, attempting to access a blocked site will display a "blocked" message, reinforcing focus during active timer sessions. The extension also includes features like dark mode, confetti effects upon timer completion, and a victory audio clip.</strong>
+<div align="center"><strong>Focus Mode is a Chrome extension designed to help improve focus and productivity. It allows users to set a maximum timer duration of 47 hours, 59 minutes, and 59 seconds, enabling them to start, pause, and reset the timer as needed. Additionally, users can block distracting websites such as YouTube. When the timer is active, attempting to access a blocked site will display a "blocked" message, reinforcing focus during active timer sessions. The extension also includes features like dark mode, confetti effects upon timer completion, and a victory audio clip.</strong></div>
 
 ### Features
 
