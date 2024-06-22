@@ -1,0 +1,32 @@
+{
+    "name": "Focus Mode",
+    "description": "An extension for Chrome that will help you improve your focus on studies or work by blocking selected websites that distract you.",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Focus Mode"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "16.png",
+        "32": "32.png",
+        "48": "48.png",
+        "96": "96.png",
+        "128": "128.png"
+    },
+    "options_ui": {
+        "page": "src/options/options.html",
+        "open_in_tab": true
+    },
+    "permissions": ["alarms", "storage", "scripting", "tabs"],
+    "host_permissions": ["<all_urls>"],
+    "web_accessible_resources": [
+        {
+            "resources": ["audio.wav"],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}

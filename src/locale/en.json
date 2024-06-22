@@ -1,0 +1,29 @@
+{
+    "translation": {
+        "audioOptions": "Play audion on finish?",
+        "enableDarkMode": "Enable dark node?",
+        "disableDarkMode": "Disable dark node?",
+        "question": "How long would you like to focus?",
+        "hours": "hours",
+        "minutes": "minutes",
+        "seconds": "seconds",
+        "run": "Run",
+        "block": "Block sites",
+        "pause": "Pause",
+        "reset": "Reset",
+        "donate": "Donate",
+        "optionsPage": "Options",
+        "invalidUrl": "Invalid URL. Please enter a valid URL.",
+        "reportBug": "Report a bug",
+        "describeIssue": "Describe the bug.",
+        "cancel": "Cancel",
+        "submit": "Submit",
+        "feedbackSubmitted": "Feedback submitted. Thank you!",
+        "feedbackError": "Error submitting feedback. Please try again.",
+        "nullUrl": "URL cannot be empty.",
+        "repeatedUrl": "URL already exists.",
+        "confettiEnabled": "Enable confetti?",
+        "focusModeMessage": "You are in FOCUS MODE.",
+        "temporarilyBlocked": "This site is temporarily blocked"
+    }
+}

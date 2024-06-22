@@ -1,0 +1,29 @@
+{
+    "translation": {
+        "audioOptions": "Reproduzir áudio ao finalizar?",
+        "enableDarkMode": "Ativar modo escuro?",
+        "disableDarkMode": "Desativar modo escuro?",
+        "question": "Quanto tempo você gostaria de focar?",
+        "hours": "horas",
+        "minutes": "minutos",
+        "seconds": "segundos",
+        "run": "Iniciar",
+        "block": "Bloquear sites",
+        "pause": "Pausar",
+        "reset": "Resetar",
+        "donate": "Doar",
+        "optionsPage": "Opções",
+        "invalidUrl": "URL inválido. Por favor, insira um domínio válido (ex: youtube.com).",
+        "reportBug": "Reporte um problema",
+        "describeIssue": "Descreva o problema que você encontrou.",
+        "cancel": "Cancelar",
+        "submit": "Enviar",
+        "feedbackSubmitted": "Feedback enviado com sucesso!",
+        "feedbackError": "Erro ao enviar feedback. Tente novamente.",
+        "nullUrl": "URL não pode ser vazio.",
+        "repeatedUrl": "URL já está na lista.",
+        "confettiEnabled": "Ativar confetes ao terminar?",
+        "focusModeMessage": "Você está em FOCO. Não se distraia!",
+        "temporarilyBlocked": "Esse site foi temporariamente bloqueado."
+    }
+}
