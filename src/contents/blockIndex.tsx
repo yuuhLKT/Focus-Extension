@@ -4,8 +4,6 @@ import styles from '../main.css?inline';
 import { removeContent } from '../utils/RemoveContent';
 import App from './blockContent';
 
-import '../utils/i18n';
-
 const isProduction: boolean = process.env.NODE_ENV === 'production';
 const ROOT_ID = 'content-root';
 

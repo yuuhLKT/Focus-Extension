@@ -22,8 +22,6 @@
         "feedbackError": "Erro ao enviar feedback. Tente novamente.",
         "nullUrl": "URL não pode ser vazio.",
         "repeatedUrl": "URL já está na lista.",
-        "confettiEnabled": "Ativar confetes ao terminar?",
-        "focusModeMessage": "Você está em FOCO. Não se distraia!",
-        "temporarilyBlocked": "Esse site foi temporariamente bloqueado."
+        "confettiEnabled": "Ativar confetes ao terminar?"
     }
 }
